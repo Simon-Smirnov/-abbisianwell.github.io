@@ -1,2 +1,0 @@
-:root {box-sizing: border-box;} <!-- применение наследование border-box к корневому элементу -->
-*, ::before, ::after {box-sizing: inherit;} <!-- наследование свойства box-sizing -->
